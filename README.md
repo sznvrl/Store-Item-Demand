@@ -29,16 +29,16 @@ Our problem is to make the most accurate demand forecasting and manage the inven
 
 Files:
 
-train.csv : Train data set
-test.csv : Test data set
-sample_submission.csv: Sample submission file
+# train.csv : Train data set
+# test.csv : Test data set
+# sample_submission.csv: Sample submission file
 
 Columns:
 
-date: date of sales
-Store: store id
-item: item id
-sales: number of sales
+# date: date of sales
+# Store: store id
+# item: item id
+# sales: number of sales
 
 
 
